@@ -1,0 +1,5 @@
+package cmdImpl
+
+func Init() {
+
+}
