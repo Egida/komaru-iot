@@ -1,0 +1,4 @@
+package all
+
+func Register() {
+}

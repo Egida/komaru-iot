@@ -1,0 +1,9 @@
+{
+ "master_port": 1337,
+ "slave_port": 69,
+ "ssh_key": "id_rsa",
+ "mysql_address": "localhost:3306",
+ "mysql_user": "root",
+ "mysql_password": "",
+ "mysql_database": "sql"
+}
